@@ -1,0 +1,35 @@
+{
+  "os":  "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.15",
+  "startedAt":  "2026-03-04T17:54:12.993242Z",
+  "program":  "/home/izzytn/projects/medlab/fine_tune_unsloth.ipynb",
+  "codePath":  "/home/izzytn/projects/medlab/fine_tune_unsloth.ipynb",
+  "codePathLocal":  "fine_tune_unsloth.ipynb",
+  "email":  "nguumatn@gmail.com",
+  "root":  "/home/izzytn/projects/medlab",
+  "host":  "MY-ROG-G15",
+  "executable":  "/home/izzytn/projects/medlab/myenv/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 2060 with Max-Q Design",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1081101176832",
+      "used":  "14057082880"
+    }
+  },
+  "memory":  {
+    "total":  "12237221888"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 2060 with Max-Q Design",
+      "memoryTotal":  "6442450944",
+      "architecture":  "Turing",
+      "uuid":  "GPU-1eea4b86-da81-2af2-4ac9-564cc455f2d9"
+    }
+  ],
+  "cudaVersion":  "13.1",
+  "writerId":  "ry0hq528sp30rbvw5b5zhrljynkzg1mr"
+}

@@ -1,0 +1,24 @@
+# ── PyTorch (CUDA 12.4) ──────────────────────────────────────────
+# Install separately first:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+# ── Fine-tuning ───────────────────────────────────────────────────
+unsloth
+unsloth_zoo
+peft
+trl
+bitsandbytes
+transformers
+
+# ── Streamlit App ─────────────────────────────────────────────────
+streamlit
+pdfplumber
+python-dotenv
+
+# ── Data & Tracking ───────────────────────────────────────────────
+datasets
+wandb
+
+# ── Jupyter ───────────────────────────────────────────────────────
+ipykernel
+ipywidgets
